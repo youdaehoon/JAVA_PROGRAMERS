@@ -37,3 +37,13 @@ public class Day3 {
 
     ;
 }
+
+
+//    long answer = 0;
+//        if(a==b){
+//                return (long)a;
+//                }else{
+//                //(첫항+끝항)*갯수/2
+//                answer=(a+b)*(Math.abs(b-a)+1);
+//                return (long)answer/2;
+//                }
